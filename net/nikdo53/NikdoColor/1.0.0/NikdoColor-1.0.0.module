@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "NikdoColor",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "NikdoColor-1.0.0.jar",
+          "url": "NikdoColor-1.0.0.jar",
+          "size": 20310,
+          "sha512": "9f59b8cb809f1b0e52e1af5244e4ecf12df536dba29886147b815848633da9f9b044429647145efdc75836931f2519261fc2aa04ae0184ca2a7159a887c0363b",
+          "sha256": "7de5ce09299e2109d4d4cbf4b2c71fddb71308e2d1bbef489446237b3d43f208",
+          "sha1": "f491408fd2d9b233f3a765de5ed60517d753567d",
+          "md5": "c06848a5408d5715ccc58267a9dad633"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NikdoColor-1.0.0.jar",
+          "url": "NikdoColor-1.0.0.jar",
+          "size": 20310,
+          "sha512": "9f59b8cb809f1b0e52e1af5244e4ecf12df536dba29886147b815848633da9f9b044429647145efdc75836931f2519261fc2aa04ae0184ca2a7159a887c0363b",
+          "sha256": "7de5ce09299e2109d4d4cbf4b2c71fddb71308e2d1bbef489446237b3d43f208",
+          "sha1": "f491408fd2d9b233f3a765de5ed60517d753567d",
+          "md5": "c06848a5408d5715ccc58267a9dad633"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NikdoColor-1.0.0-javadoc.jar",
+          "url": "NikdoColor-1.0.0-javadoc.jar",
+          "size": 122589,
+          "sha512": "3e12518c940c684a1a5aa219ca7398131cc9a1dba1dfd98831d5928c2cfe7793fc3506050b81aa6fbf99ba4db3cbdc701c526821bc51bca90d25fe4ae97978e7",
+          "sha256": "2855a346824c8b7630f94aa911fcfd6f7309c228f942ec07c347adc8ff316449",
+          "sha1": "4539ddb497f21d809f66224212ad9a795e308ec9",
+          "md5": "9ceb36f70923c0b58e24a73d645a0369"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NikdoColor-1.0.0-sources.jar",
+          "url": "NikdoColor-1.0.0-sources.jar",
+          "size": 7305,
+          "sha512": "0b0a7581078ba9934c3f17bf105f6b0ed013c9705d731b22391577f4542c83731c718027c887b307b5d62affcad11adc05317277c71b3389d16bc4d5a00a7122",
+          "sha256": "5c03a8600be0c6563ac4526b2b425c5ef70bfb26c47ebc3c493c913b03a642b3",
+          "sha1": "5cc914391323952b10e587dbf7d9b16267e93eec",
+          "md5": "7091003081b8ceb2ca938bc75ee638d6"
+        }
+      ]
+    }
+  ]
+}

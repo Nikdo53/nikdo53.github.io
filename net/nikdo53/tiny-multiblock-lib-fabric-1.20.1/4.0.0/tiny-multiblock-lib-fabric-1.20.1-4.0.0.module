@@ -27,11 +27,11 @@
         {
           "name": "tiny-multiblock-lib-fabric-1.20.1-4.0.0.jar",
           "url": "tiny-multiblock-lib-fabric-1.20.1-4.0.0.jar",
-          "size": 211337,
-          "sha512": "5beb78471f007458121030c4e042c3560d792378209a7da90636e6b4f3e55d99ea2ebb85013b1b15df420f31cba31d47d8aa60d7dcd9fef1eeb237811c94bfa7",
-          "sha256": "94a4ccddca74a553e603eb46ed270aebeb784f237d5e8b1eb6956904ed2f9fa1",
-          "sha1": "7bb216a314c954f503b15cd041772542ae5e3d98",
-          "md5": "501907c880bd8475cb82d5893640e291"
+          "size": 211345,
+          "sha512": "7888fc02911b449be237f9ec55c934686c0a47e6307ebf24de59d01e6926a3ef76fe885a99f3214393894fe7054e1eb551eb5ac2b051c87fe10ea4174edcdd14",
+          "sha256": "8aa075b6be69ded434c651fd17c2942e262dc111830338da3344db92bada416b",
+          "sha1": "67e7f6587577b2b1c7e0ee582ee39852f4474cab",
+          "md5": "cf0b63b22ed5c85d41f0721da7004796"
         }
       ],
       "capabilities": [
@@ -102,11 +102,11 @@
         {
           "name": "tiny-multiblock-lib-fabric-1.20.1-4.0.0.jar",
           "url": "tiny-multiblock-lib-fabric-1.20.1-4.0.0.jar",
-          "size": 211337,
-          "sha512": "5beb78471f007458121030c4e042c3560d792378209a7da90636e6b4f3e55d99ea2ebb85013b1b15df420f31cba31d47d8aa60d7dcd9fef1eeb237811c94bfa7",
-          "sha256": "94a4ccddca74a553e603eb46ed270aebeb784f237d5e8b1eb6956904ed2f9fa1",
-          "sha1": "7bb216a314c954f503b15cd041772542ae5e3d98",
-          "md5": "501907c880bd8475cb82d5893640e291"
+          "size": 211345,
+          "sha512": "7888fc02911b449be237f9ec55c934686c0a47e6307ebf24de59d01e6926a3ef76fe885a99f3214393894fe7054e1eb551eb5ac2b051c87fe10ea4174edcdd14",
+          "sha256": "8aa075b6be69ded434c651fd17c2942e262dc111830338da3344db92bada416b",
+          "sha1": "67e7f6587577b2b1c7e0ee582ee39852f4474cab",
+          "md5": "cf0b63b22ed5c85d41f0721da7004796"
         }
       ],
       "capabilities": [
@@ -139,11 +139,11 @@
         {
           "name": "tiny-multiblock-lib-fabric-1.20.1-4.0.0-sources.jar",
           "url": "tiny-multiblock-lib-fabric-1.20.1-4.0.0-sources.jar",
-          "size": 95872,
-          "sha512": "ddbecd5f5cfb4b5e0d8cea77af890f58e564463b51d09addf3159ebcfd135f97ed836bafb09cdda5f3a20f414093a660fc3dc26fec88d77cabefd028e0cc6320",
-          "sha256": "25b49e2159fb589e6fa210d89139f90a03dd313f9586eebd06d4d5a8f70ccf93",
-          "sha1": "9ad440384a27a9a337793f51dedb22e8178d8e4a",
-          "md5": "e2e0c23c412f4332143d0fe5ada5c3cb"
+          "size": 95795,
+          "sha512": "928a1bd4a08ef056c37b6c0f5159208bd5be1ddf523dba4ccd747a97c42213e77081cdda96fc17fc2157a153ddc3224b1cb44f7e6fc417d6308077d55a92b986",
+          "sha256": "dfa1aafab762a58b3e88df962062638bbc115becc73ea7fc1e3f144a4a70cc84",
+          "sha1": "cf8c35856772fb4580463cf8f5b7aed11ea59c38",
+          "md5": "a31419f3415cc6e7e87505d7008b091d"
         }
       ],
       "capabilities": [
@@ -176,11 +176,11 @@
         {
           "name": "tiny-multiblock-lib-fabric-1.20.1-4.0.0-javadoc.jar",
           "url": "tiny-multiblock-lib-fabric-1.20.1-4.0.0-javadoc.jar",
-          "size": 528201,
-          "sha512": "4758f61c7f3f8300c05157a5371fd051fab268ce128cbf0231e36e5fe0abed48fbd2624c695ed83ec3e87e6d4ef3e0476a5b453e99a74a7ffe420b49b97d8221",
-          "sha256": "bb1e8ea1ec6aef7e1c5cbc08d9e45a8b476536bf0f9ef554d375f2b52636a1f1",
-          "sha1": "c8bda9da6e5a684c111aa08272728bd38d201403",
-          "md5": "98e4e5ff84fafe1790112df8d0f02762"
+          "size": 528181,
+          "sha512": "d8aea66f1af0726867ee648709fb7a0648a777c521f6b8053eff76dd834a835502812f6cec748930240fc7cf5de1bf5b6a6d4b113018a87dd0686ce076722ba5",
+          "sha256": "af4390e9a246ed528c7281f81f47b1ad7056d5065a4a29c68dad75fe27deedb2",
+          "sha1": "758e6bdbea830e7d5ff1d19d867a2e0401d45bd4",
+          "md5": "4106f7b81c7785d6f508e53077d46a2e"
         }
       ],
       "capabilities": [

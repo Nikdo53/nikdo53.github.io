@@ -26,11 +26,11 @@
         {
           "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0-sources.jar",
           "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0-sources.jar",
-          "size": 96262,
-          "sha512": "0ee7fb3658aca3528438ce628079aa721d1953dd394c8c92608838fcf7930fb10029b674e459fc2007ebe20a9a8c550696fbd3d2177c05aaf17f1b9cce5cb162",
-          "sha256": "c0d3855c4a4f3ffcf6dd649240500ac01d4633df262bc92125335ed7a5a10564",
-          "sha1": "1dd8e4df68ba44658910dd3994c205bb5df9881c",
-          "md5": "b675b8ec1b3332a4798df8a46430615c"
+          "size": 96191,
+          "sha512": "f208f3525dc801217bc64f3391187f9985ab30ffc1d41c66c3570b7d13cd8722344b4ca0e8aa023c9b187c5e891f865ab7fd90f31e0fa95e34cda418d8aa0356",
+          "sha256": "bc9a537f5a8bfd2860ec933d0f7e643df4effdd9e77a432e934ed3a59105ae14",
+          "sha1": "bc2eba603eb532d6037bd8693bf339134fa54eb7",
+          "md5": "8f3dcae5c7741be7e896a8cf09f86907"
         }
       ],
       "capabilities": [
@@ -63,11 +63,11 @@
         {
           "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0-javadoc.jar",
           "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0-javadoc.jar",
-          "size": 532040,
-          "sha512": "ec7a181d6bb3802dd927df696c91f6acc0223a68108f35ca22b94c2045d548a59ccae85e21eae005ae8230a6183705b7b7a6fc20de3a9c757171dcd016f52731",
-          "sha256": "b65643e71d32680ceaa3946970b5eb641cc7ad33bbc74b23b732310008288c82",
-          "sha1": "268c98e2efefff6c4e68e86a7c290f020e786750",
-          "md5": "785fb7ea327e58b31d899ba72db7ff50"
+          "size": 532020,
+          "sha512": "679f4e0d6a93825eaf5a4f711c84b54769060b8e22f3f3ffe491e4b8fa77dd5af13390613c7bb0ba9ff30afd644299880614cd9681c4f1d7b3dc72d6484345b9",
+          "sha256": "316e7b8b6b40e4a9cc86b5717f5604c876aab1df898b34af32ed229f9a6b8d5e",
+          "sha1": "93cd0642b23b7b3ab518ceeb3a498c794fe3d415",
+          "md5": "54ad562276b85f5ede00b3400d28ea22"
         }
       ],
       "capabilities": [
@@ -101,11 +101,11 @@
         {
           "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
           "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
-          "size": 846017,
-          "sha512": "5e560dfab60f993c211b2abdd1ff549a0e97499ec84ac0ab9e06fe9de6b520d38b5da5be2feb0bd310bcf85ee02b6e305fad4a4e640db591e913eeca5ad505b2",
-          "sha256": "ffe22d383e19ffb690ae887bb0401da7701da62dd0e446a58136c652e96ac822",
-          "sha1": "b5cf3cb486f5d724a604a36a67b0e54cf11702ff",
-          "md5": "3a1875f9c610c0e66e4abb42e09d67de"
+          "size": 846025,
+          "sha512": "9edfa2f6dab558bf35f3b444ec2b40c463394fc24dbf72521eee3840b3fc154d404df4595a0bac46f0bb1b2dc16a1bc74a8e56eb0624cbe22b910a1b5f79b90d",
+          "sha256": "79dffffc9115059b3ddd8290708f388245d3489b61d20399e9b6d5095ddc8e01",
+          "sha1": "355fce0c9d8d3755fa561ac30d201a035a509dd6",
+          "md5": "004aec0a159d4e817ac1458ed4c040a6"
         }
       ]
     },
@@ -122,11 +122,11 @@
         {
           "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
           "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
-          "size": 846017,
-          "sha512": "5e560dfab60f993c211b2abdd1ff549a0e97499ec84ac0ab9e06fe9de6b520d38b5da5be2feb0bd310bcf85ee02b6e305fad4a4e640db591e913eeca5ad505b2",
-          "sha256": "ffe22d383e19ffb690ae887bb0401da7701da62dd0e446a58136c652e96ac822",
-          "sha1": "b5cf3cb486f5d724a604a36a67b0e54cf11702ff",
-          "md5": "3a1875f9c610c0e66e4abb42e09d67de"
+          "size": 846025,
+          "sha512": "9edfa2f6dab558bf35f3b444ec2b40c463394fc24dbf72521eee3840b3fc154d404df4595a0bac46f0bb1b2dc16a1bc74a8e56eb0624cbe22b910a1b5f79b90d",
+          "sha256": "79dffffc9115059b3ddd8290708f388245d3489b61d20399e9b6d5095ddc8e01",
+          "sha1": "355fce0c9d8d3755fa561ac30d201a035a509dd6",
+          "md5": "004aec0a159d4e817ac1458ed4c040a6"
         }
       ]
     }

@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "tiny-multiblock-lib-forge-1.20.1",
+    "version": "4.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0-sources.jar",
+          "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0-sources.jar",
+          "size": 96262,
+          "sha512": "0ee7fb3658aca3528438ce628079aa721d1953dd394c8c92608838fcf7930fb10029b674e459fc2007ebe20a9a8c550696fbd3d2177c05aaf17f1b9cce5cb162",
+          "sha256": "c0d3855c4a4f3ffcf6dd649240500ac01d4633df262bc92125335ed7a5a10564",
+          "sha1": "1dd8e4df68ba44658910dd3994c205bb5df9881c",
+          "md5": "b675b8ec1b3332a4798df8a46430615c"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.0"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-1.20.1",
+          "version": "4.0.0"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-1.20.1",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0-javadoc.jar",
+          "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0-javadoc.jar",
+          "size": 532040,
+          "sha512": "ec7a181d6bb3802dd927df696c91f6acc0223a68108f35ca22b94c2045d548a59ccae85e21eae005ae8230a6183705b7b7a6fc20de3a9c757171dcd016f52731",
+          "sha256": "b65643e71d32680ceaa3946970b5eb641cc7ad33bbc74b23b732310008288c82",
+          "sha1": "268c98e2efefff6c4e68e86a7c290f020e786750",
+          "md5": "785fb7ea327e58b31d899ba72db7ff50"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.0"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-1.20.1",
+          "version": "4.0.0"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-1.20.1",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    {
+      "name": "reobfRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
+          "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
+          "size": 846017,
+          "sha512": "5e560dfab60f993c211b2abdd1ff549a0e97499ec84ac0ab9e06fe9de6b520d38b5da5be2feb0bd310bcf85ee02b6e305fad4a4e640db591e913eeca5ad505b2",
+          "sha256": "ffe22d383e19ffb690ae887bb0401da7701da62dd0e446a58136c652e96ac822",
+          "sha1": "b5cf3cb486f5d724a604a36a67b0e54cf11702ff",
+          "md5": "3a1875f9c610c0e66e4abb42e09d67de"
+        }
+      ]
+    },
+    {
+      "name": "reobfApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
+          "url": "tiny-multiblock-lib-forge-1.20.1-4.0.0.jar",
+          "size": 846017,
+          "sha512": "5e560dfab60f993c211b2abdd1ff549a0e97499ec84ac0ab9e06fe9de6b520d38b5da5be2feb0bd310bcf85ee02b6e305fad4a4e640db591e913eeca5ad505b2",
+          "sha256": "ffe22d383e19ffb690ae887bb0401da7701da62dd0e446a58136c652e96ac822",
+          "sha1": "b5cf3cb486f5d724a604a36a67b0e54cf11702ff",
+          "md5": "3a1875f9c610c0e66e4abb42e09d67de"
+        }
+      ]
+    }
+  ]
+}

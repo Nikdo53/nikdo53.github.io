@@ -1,0 +1,217 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "tiny-multiblock-lib-common-26.3",
+    "version": "4.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-common-neoforgeapi",
+          "version": {
+            "requires": "26.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-26.3-4.0.1.jar",
+          "url": "tiny-multiblock-lib-common-26.3-4.0.1.jar",
+          "size": 187700,
+          "sha512": "eb98612ccdcda74caae99eb5fd5e9bf3f21c206ffa77b18e78754b0d425dc9a88948aabe66844d11237c165ee3528a2bc82d0fa89bbec37fa7ac332d0fec9ff5",
+          "sha256": "ba41a1375a99dd20e64181e0a34b6e24f40e9151c60cc26a90883144f18e7dd8",
+          "sha1": "8c50e4f1b97df21ecc1f91dd4d1facc24c044167",
+          "md5": "306c69f9fbdfbe3be920bf2101154701"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "common",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.nikdo53",
+          "module": "nikdo-color",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-common-neoforgeapi",
+          "version": {
+            "requires": "26.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-26.3-4.0.1.jar",
+          "url": "tiny-multiblock-lib-common-26.3-4.0.1.jar",
+          "size": 187700,
+          "sha512": "eb98612ccdcda74caae99eb5fd5e9bf3f21c206ffa77b18e78754b0d425dc9a88948aabe66844d11237c165ee3528a2bc82d0fa89bbec37fa7ac332d0fec9ff5",
+          "sha256": "ba41a1375a99dd20e64181e0a34b6e24f40e9151c60cc26a90883144f18e7dd8",
+          "sha1": "8c50e4f1b97df21ecc1f91dd4d1facc24c044167",
+          "md5": "306c69f9fbdfbe3be920bf2101154701"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "common",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-26.3-4.0.1-sources.jar",
+          "url": "tiny-multiblock-lib-common-26.3-4.0.1-sources.jar",
+          "size": 95401,
+          "sha512": "388f1c4a9438b4624b390dd2bf5df0b119df810618412f97ae5b16dba1a64ee68645a277bde7218986df02ac7e6e81e17648552573a76a4f85e33fd81744f426",
+          "sha256": "b2934225dacb07ec8b5655abe87be004a3417e9c378cff4b4ef5b9fca070cd66",
+          "sha1": "3da26e700899c564a3620a5520762bc1d9c431af",
+          "md5": "24158136441a3a5ea09fc0a65fb44451"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "common",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-26.3-4.0.1-javadoc.jar",
+          "url": "tiny-multiblock-lib-common-26.3-4.0.1-javadoc.jar",
+          "size": 4624560,
+          "sha512": "dd7634157a91ddbce877d1524bcbaeecd02183d7cfae88345490b769ddcd3db6321f221014f13b0c18e26b271bdd0608212b0a620aecf0f3be64a1e2901c6efb",
+          "sha256": "ebf6b4bf57cd6a14a3089f92c89fd1f425a598e8eea8d92ae6469eb4bdaedf6b",
+          "sha1": "22fe6edd23e12fa49e5ae0d980ef00b358c1e232",
+          "md5": "1edf04e55a286caca9785f5f410eeefd"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "common",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    }
+  ]
+}

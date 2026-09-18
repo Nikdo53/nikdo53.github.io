@@ -1,0 +1,222 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "tiny-multiblock-lib-fabric-26.3",
+    "version": "4.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-fabric-26.3-4.0.1.jar",
+          "url": "tiny-multiblock-lib-fabric-26.3-4.0.1.jar",
+          "size": 232280,
+          "sha512": "52351120a884a88bf0334eb8654739413c6f5e2dc43b77974c9a685b7abb6d7a581bc1b3d056284d2e53a3d3c9d9272583d9a94daff568c256a790b2ee80b7e6",
+          "sha256": "0179211ea857e763b9ac799f9af12dccdad4028f95be5ad6da2bf65c3e844b9a",
+          "sha1": "cbbcda910c29e92bc792b0505a07cac43e2a4c05",
+          "md5": "708706ba7882ba66e7cc842a76d9161f"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "fabric",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-fabric-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-fabric-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.5"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.160.7+26.3"
+          }
+        },
+        {
+          "group": "net.nikdo53",
+          "module": "nikdo-color",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "26.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-fabric-26.3-4.0.1.jar",
+          "url": "tiny-multiblock-lib-fabric-26.3-4.0.1.jar",
+          "size": 232280,
+          "sha512": "52351120a884a88bf0334eb8654739413c6f5e2dc43b77974c9a685b7abb6d7a581bc1b3d056284d2e53a3d3c9d9272583d9a94daff568c256a790b2ee80b7e6",
+          "sha256": "0179211ea857e763b9ac799f9af12dccdad4028f95be5ad6da2bf65c3e844b9a",
+          "sha1": "cbbcda910c29e92bc792b0505a07cac43e2a4c05",
+          "md5": "708706ba7882ba66e7cc842a76d9161f"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "fabric",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-fabric-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-fabric-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-fabric-26.3-4.0.1-sources.jar",
+          "url": "tiny-multiblock-lib-fabric-26.3-4.0.1-sources.jar",
+          "size": 106414,
+          "sha512": "dc7ef2b19c0ea7adf59b41be9fdc08b94ddd57982625aef3fef44b59f0c30ba0492b6789d63ce1b6e02335ec09c52068329a77a1bf6d9d0df864ca6853ee537e",
+          "sha256": "a92aa70025ac4a8ab91616661064130167d26bbbfb2bae49573e8caf07b7edf3",
+          "sha1": "e06aaa42d22b4975b15a8bceb7059b63d1ce90b4",
+          "md5": "da0b4b257e8b7fc101549e1521043a9d"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "fabric",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-fabric-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-fabric-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-fabric-26.3-4.0.1-javadoc.jar",
+          "url": "tiny-multiblock-lib-fabric-26.3-4.0.1-javadoc.jar",
+          "size": 4688554,
+          "sha512": "88f14e6f29005e27c42279f7c0f2e57bfe01b30dd642c66a8e5b73028935cb8829dd6da964a3fa3c07fba34dd8344f314415893cd96dbf2e3a268a64cfe33aed",
+          "sha256": "05f8b0c71f08974b39a0ee5c3e53a16f3de66e1e3912b925ee145c4298b62035",
+          "sha1": "69db59729bfbb237da675a67c51b557c7642b655",
+          "md5": "a76bc25d43009b504d6bca659c65956f"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "fabric",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-fabric-26.3",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-fabric-26.3",
+          "version": "4.0.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "tiny-multiblock-lib-common-1.20.1",
+    "version": "4.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-1.20.1-4.0.1-sources.jar",
+          "url": "tiny-multiblock-lib-common-1.20.1-4.0.1-sources.jar",
+          "size": 87186,
+          "sha512": "232ba673fce9ff9f0a17da8d929f06897abf15509c7b8f338583c0b7ff61b04ecafa3aed497986c3374e06d270dacc4a600c5ac77e08e97eef36c7c0bebc5dd2",
+          "sha256": "982e2c36e0861b1b9d1882cc60b5a3b9a94e28eb6208261a399b7ea8e00babcf",
+          "sha1": "cf7f0ac1af417321b1adf18ab9c3952a6a63efa7",
+          "md5": "f30ebf62b15e3e84cf08d90fe3c32145"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-1.20.1",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-1.20.1",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-1.20.1-4.0.1-javadoc.jar",
+          "url": "tiny-multiblock-lib-common-1.20.1-4.0.1-javadoc.jar",
+          "size": 481153,
+          "sha512": "33a9fada9e512a4099bf06dadfeeca2a51f02353b4910f7501300f778aa5e9bb36266825f8a1643d5d79c399a49236c13d187839436018bf62f484bf78dfb723",
+          "sha256": "abaff28efe46426fff0077025fdfcc91ce38835111b1d16bdcbbd8c3f17fca59",
+          "sha1": "13db1dc8d4cd5fea5eca234f4e644b78826c1504",
+          "md5": "c3049ec9227f5ee9493c16eddaa17986"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-common-1.20.1",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-common-1.20.1",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "reobfRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-1.20.1-4.0.1.jar",
+          "url": "tiny-multiblock-lib-common-1.20.1-4.0.1.jar",
+          "size": 175146,
+          "sha512": "f9f88b1686f235d07e215ca759393e53db5ef872731b8101715a9f2973ef38138b4f5dcc51c128bd8aaf964f48533f3e5ed0326a4432a80eb8b32a517c0377f3",
+          "sha256": "9e968093fa32854f9d53c69e83b199c7d890dbcd9148249201f6f4dc6b5bb925",
+          "sha1": "fa8edadeaca503af3154cad235e234a53d8a3c17",
+          "md5": "9ae2bfe8e72bdb7e1e33ec11423fd7db"
+        }
+      ]
+    },
+    {
+      "name": "reobfApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-common-1.20.1-4.0.1.jar",
+          "url": "tiny-multiblock-lib-common-1.20.1-4.0.1.jar",
+          "size": 175146,
+          "sha512": "f9f88b1686f235d07e215ca759393e53db5ef872731b8101715a9f2973ef38138b4f5dcc51c128bd8aaf964f48533f3e5ed0326a4432a80eb8b32a517c0377f3",
+          "sha256": "9e968093fa32854f9d53c69e83b199c7d890dbcd9148249201f6f4dc6b5bb925",
+          "sha1": "fa8edadeaca503af3154cad235e234a53d8a3c17",
+          "md5": "9ae2bfe8e72bdb7e1e33ec11423fd7db"
+        }
+      ]
+    }
+  ]
+}

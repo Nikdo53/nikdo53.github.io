@@ -1,0 +1,201 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.nikdo53",
+    "module": "tiny-multiblock-lib-neoforge-26.2",
+    "version": "4.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-neoforge-26.2-4.0.1.jar",
+          "url": "tiny-multiblock-lib-neoforge-26.2-4.0.1.jar",
+          "size": 224085,
+          "sha512": "4cb234b9f502c7466bcca5538e71fd1b7cc28a7729bdf83c070e9ec236d07757879d19f7766b4908ec5bed59b7313e862b4929bf737988a0b0aa27a643735846",
+          "sha256": "54ec34ad24fa8e261387d509ac05d0853f37bb2cdcff680d548abcd1d4626d7e",
+          "sha1": "3b927baab3dcc791b759e72dafbd10cf711a3ed4",
+          "md5": "f83b091e1056268aa9af87aee08f9c67"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-26.2",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "neoforge",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-26.2",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.nikdo53",
+          "module": "nikdo-color",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-neoforge-26.2-4.0.1.jar",
+          "url": "tiny-multiblock-lib-neoforge-26.2-4.0.1.jar",
+          "size": 224085,
+          "sha512": "4cb234b9f502c7466bcca5538e71fd1b7cc28a7729bdf83c070e9ec236d07757879d19f7766b4908ec5bed59b7313e862b4929bf737988a0b0aa27a643735846",
+          "sha256": "54ec34ad24fa8e261387d509ac05d0853f37bb2cdcff680d548abcd1d4626d7e",
+          "sha1": "3b927baab3dcc791b759e72dafbd10cf711a3ed4",
+          "md5": "f83b091e1056268aa9af87aee08f9c67"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-26.2",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "neoforge",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-26.2",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-neoforge-26.2-4.0.1-sources.jar",
+          "url": "tiny-multiblock-lib-neoforge-26.2-4.0.1-sources.jar",
+          "size": 104435,
+          "sha512": "c039fdd322d52b6f6295423637c240eeaf1f6437116bd85a6a6e92878272b0672c89c34a1c988628391dd6b7b7f9926b4e1a229d1b9cd01d5ac0fe43954013c9",
+          "sha256": "d6930a4d9e2116236e4ae9779864415b4c7cac802dfdcf94aeee0a74147b3a03",
+          "sha1": "528d303b222bfd4d954899c4e49000fc4b687801",
+          "md5": "f0c0c6af0d8262de2ade54ac6d9a7ad9"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-26.2",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "neoforge",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-26.2",
+          "version": "4.0.1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tiny-multiblock-lib-neoforge-26.2-4.0.1-javadoc.jar",
+          "url": "tiny-multiblock-lib-neoforge-26.2-4.0.1-javadoc.jar",
+          "size": 4679192,
+          "sha512": "02522a677834c4a131cce7d01dcada16dd8515adab7dfb54c920d7509c2fafa86eef29fad0cf93594b19b54bbb90a85abb4b4303cf2edbec50dbdff96b16d3d8",
+          "sha256": "8d60d75a91c986737850685131f0dfb50a3081df1c6edb146ea9a36ca48907cf",
+          "sha1": "d27affb91199d1381a681d09bd2d195d8edcee15",
+          "md5": "ff81de746842d8d303b2e46f3656e193"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "net.nikdo53",
+          "name": "tiny-multiblock-lib-neoforge-26.2",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "neoforge",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib",
+          "version": "4.0.1"
+        },
+        {
+          "group": "net.nikdo53",
+          "name": "tinymultiblocklib-neoforge-26.2",
+          "version": "4.0.1"
+        }
+      ]
+    }
+  ]
+}
